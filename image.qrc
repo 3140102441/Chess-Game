@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>image/chessboard.png</file>
+        <file>image/button.jpg</file>
+        <file>image/button2.jpg</file>
+        <file>image/people.jpg</file>
+        <file>image/people2.jpg</file>
+        <file>image/background.jpg</file>
+        <file>image/chessblack.png</file>
+        <file>image/chesswhite.png</file>
+        <file>image/empty.png</file>
+        <file>image/chessblackh.png</file>
+        <file>image/chesswhiteh.png</file>
+        <file>image/chessblack1.png</file>
+        <file>image/chesswhite1.png</file>
+        <file>image/menuphoto.png</file>
+    </qresource>
+</RCC>
